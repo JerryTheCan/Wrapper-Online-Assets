@@ -6,7 +6,7 @@ this css has the general header/footer layout stuff
 general
 **/
 html,body{
-	background: #fff;
+	background: #48005c;
 	color: #474747;
 	font: 16px/1.5 'Sailec', Arial, sans-serif;
 	width:100%;height:100%;
@@ -22,7 +22,7 @@ header
 **/
 header {
 	/* style */
-	background: #1e1e1e;
+	background: #c800ff;
 	color: #fff;
 	text-align: center;
 	/* layout */
@@ -54,7 +54,7 @@ header {
 }
 /* small buttons */
 .button_small       { background: #333 }
-.button_small:hover { background: #444; color: #d85e27 }
+.button_small:hover { background: #444; color: #eba1ff }
 /* big buttons */
 .button_big {
 	background-color: #d85e27;
